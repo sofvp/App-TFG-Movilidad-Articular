@@ -1,0 +1,15 @@
+# Archivos generados por el sistema de compilación
+*.apk
+*.aab
+/build/
+/app/build/
+
+# Ficheros de configuración local
+local.properties
+.gradle/
+.idea/
+*.iml
+
+# Otros
+captures/
+.DS_Store
