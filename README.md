@@ -12,5 +12,5 @@ De este modo, la aplicación permite gestionar una base de datos de pacientes, r
 ## Autor
 
 *   **Sofía Vilanova Paz**
-*   [PCEO en Ingeniería Biomédica e Ingeniería en Electrónica Industrial y Automática]
-*   [Universidad de Vigo] - [2025]
+*   PCEO en Ingeniería Biomédica e Ingeniería en Electrónica Industrial y Automática
+*   Universidad de Vigo - 2025
